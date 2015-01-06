@@ -1,0 +1,53 @@
+---
+layout: post
+title: Friday afternoon drop-everything-and-fix
+date: 2014-07-30 00:37:31.000000000 +01:00
+categories:
+- Software Development
+tags:
+- bug
+- deployment
+- friday release
+- office
+- release
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '57070070'
+  geo_public: '0'
+  publicize_facebook_url: https://facebook.com/1453190598260071_1481381408774323
+  _wpas_done_7599574: '1'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:100006601066300;b:1;}}
+  _wpas_skip_7599574: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+author:
+  login: jdrennison
+  email: twowrongsides@gmail.com
+  display_name: JD Rennison
+  first_name: ''
+  last_name: ''
+---
+<p>The week is near the end and as we all know the weekend starts on Friday at 6pm. All week's been quiet in that my PM (Product Manager or Project Manager, pick one) has asked me "how's it going" only once. With only one hour to go, I'm half way through running a deployment script on one of the two boxes where the production code is running.</p>
+<p>[caption id="attachment_724" align="aligncenter" width="408"]<a href="https://thegrumbler.files.wordpress.com/2014/07/fridaydeployment.gif"><img class="size-full wp-image-724" src="assets/fridaydeployment.gif" alt="asd" width="408" height="285" /></a> <br />Maybe I'll do it after a few pints at the local near the office.[/caption]</p>
+<p>"JD." I hear a voice right above me. I turn around to see the stern face of my PM. "Did you get my email?"</p>
+<p>Without answering I look back at the monitor, hover my mouse cursor over Outlook and start sifting through its open email windows seeking the only window that contains the inbox.</p>
+<p>The problem with emails is that no tree needs to be cut down to become raw material for a on-screen window with text and images. Also you can send one without having to get off your seat. As a result, hundreds of them fly across the corporate network every day without any thought. Me, I get tens of the buggers daily, many of them being automatic updates from the CI build server or other services we use, many others have me on the CC field and therefore most of the time the email doesn't even remotely concern me. Sometimes I will get an email directly personally to me. My PM had just sent me one at 16:10. It was now 16:11.</p>
+<p>"Did I get it? Yes, I did. Did I act on it? No. I didn't even look at it as I'm in the middle of the release we agreed doing today. May I remind you how we communicate urgencies in this company but also in every company. We're all busy with things. If you want me to look at something within a couple of hours or more, you email me. If you want something in the next five to ten minutes you instant-message me. And if it's urgent come find me."</p>
+<p>The PM exhales "well, just read the bloody email".</p>
+<p>You know, when you're deeply in "The Zone" and someone disrupts your trail of thoughts? Developers have a lot of tiny bits of information in their heads when they're working at a difficult problem. We can't really keep notes about those bits in a notepad because even the very act of keeping notes is a process that requires effort that we're spending thinking things and the slightest distraction would shatter out concentration. We can access those things in our short-term memory more quickly without writing and reading. That's because new things keep piling up in our short-term memory as we're working through a problem yet we can still dance trough them all. Until someone interrupts us. Everyone knows that context switching is an expensive mental process. Everything we've had in our minds so far gets shattered to make room for the new situation at hand. That someone deserves our wrath.</p>
+<p>Uncle Bob Martin's interpretation of "The Zone"<a href="%20is not the same as my one"> is not the same as my one</a>. "The Zone" is your friend.</p>
+<p>"We know about this", I reply after reading the very long stack trace that the PM emailed me, still staring at my monitor. "I thought it was being looked at by the team that handles that system. You need to speak to that team."</p>
+<p>"Oh, ok. I'll ask them then", says the PM and briskly walks off. If there's anything else I can't help you with, come and ask.</p>
+<p>First production server done, monitor the logs for a while and if all goes well, move to the second box.</p>
+<p>"JD". That was one of the mobile app developers. "I've made a call to the API from the app and I got a 500 Internal Server Error."</p>
+<p>When you've pushed, or in this case, are pushing, a new deployment to the production servers and someone reports that something's fucking fucked up in the application that you've released, the first thing that comes to your mind is whether it's something that you've just changed or something that has been there for a while but it so happened that someone's just noticed it. Before we release an application to production, it is now common in most companies that we have automated tests that exercise various paths of the application. If one of them fails, the build is unfit for release and we have to work out what's wrong with the tested code (or the test that failed) before we release. All tests had passed in that instance but the problem is those tests are never exhaustive. The journeys a user can take and the inputs she can enter (see? I'm not sexist. I can throw a few "she" around to keep the Brigade of Political Correctness at bay) are practically infinite and there could be a case that wasn't covered by tests. If your company has a Quality Assurance team they may find it during their exploration testing. Some other times the requirements could miss out some use cases in which case the production software may behave in an undesirable way. This type of behaviour we call an unintended feature. Also, some of the codebase is years old, people leave and join a company all the time and the person or persons who wrote a piece of logic and/or the PM who ordered it may be long gone or on holiday. The rest of us, who don't know that specific logic off the top of our heads will have to dig in and find what it does, so that is man-minutes, and sometimes man-hours, spent there.</p>
+<p>In short, anyone who isn't shocked by the art of software development clearly hasn't undestood what it's about. So those who don't understand software development have us do it instead and sometimes when we give them feedback we receive responses such as "but we're already doing this somewhere else in the platform" or "we've got a last-minute change one hour before the deadline but it shouldn't take you long".</p>
+<p>And what could unintended features be like? Like bloody anything! Here's a transcript of the conversation between the mobile app developer and me:</p>
+<p>"Hey man," I said, "I'll look at it when I get the chance but right now I'm in the middle of a release. Next time you discover a bug, could you discover it when I'm not doing a release?"</p>
+<p>"This can't wait, I'm afraid. As soon as the error occurred, the laptop next to me has just become sentient and has produced legs and a gatling gun between them. Also the printer in the corridor has become an aerial hunter-killer drone and started firing missiles on the accounts team".</p>
+<p>Moral of the story: a reminder that when native British people answer with "I'm afraid that..." they mean "I don't care a tiny bit about what you want and why, just shut up and do what they're tellin' ya".</p>
