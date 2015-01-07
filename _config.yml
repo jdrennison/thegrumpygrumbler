@@ -8,6 +8,10 @@ url: "http://www.thebedwithtwowrongsides.com" # the base hostname & protocol for
 twitter_username: jdrennison
 permalink:    /:year/:month/:day/:title/
 paginate: 5
+owner:
+  name:           JD Rennison
+  avatar:         avatar.jpg
+  email:          twowrongsides@gmail.com
 
 # Build settings
 timezone:    Europe/London
