@@ -360,6 +360,7 @@ header .entry-meta {
 			margin-right: auto;
 			margin-left: 8%;
 		}
+		float:left;
 	}
 	article {
 		background-color: $white;
@@ -374,6 +375,17 @@ header .entry-meta {
 			margin-bottom: 30px;
 			padding: 50px 80px;
 		}
+	}
+	#sidebar {
+		background-color: $white;
+		@include rounded(3px);	
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+		float: right;
+		width: 250px;
+		margin-top: 50px;
+		margin-right: 8%;
+		margin-left: auto;
+		padding: 25px 15px;
 	}
 }
 .entry-image-index {
@@ -408,6 +420,7 @@ header .entry-meta {
 	a {
 		color: lighten($text-color,20);
 	}
+	clear:both;
 }
 
 // Social Share
