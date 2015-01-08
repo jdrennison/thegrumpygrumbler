@@ -348,6 +348,11 @@ header .entry-meta {
 // Post Index 
 // --------------------------------------------------
 #post-index {
+	#middle {
+		width: 1100px;
+		margin-right: auto;
+		margin-left: auto;	
+	}
 	#main {
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
@@ -355,10 +360,10 @@ header .entry-meta {
 			margin-right: 20px;
 		}
 		@media #{$large} {
-			max-width: 800px;
+			width: 800px;
 			margin-top: 50px;
 			margin-right: auto;
-			margin-left: 8%;
+			margin-left: auto;
 		}
 		float:left;
 	}
@@ -381,9 +386,9 @@ header .entry-meta {
 		@include rounded(3px);	
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		float: right;
-		width: 250px;
+		width: 280px;
 		margin-top: 50px;
-		margin-right: 8%;
+		margin-right: auto;
 		margin-left: auto;
 		padding: 25px 15px;
 	}
