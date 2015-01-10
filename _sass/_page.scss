@@ -349,9 +349,14 @@ header .entry-meta {
 // --------------------------------------------------
 #post-index {
 	#middle {
-		width: 1100px;
 		margin-right: auto;
-		margin-left: auto;	
+		margin-left: auto;
+		@media only screen and (min-width: 48em){
+			width: 80%		
+		}
+		@media #{$large} {
+			width: 1100px;
+		}
 	}
 	#main {
 		margin: 40px 2px 20px 2px;
@@ -391,6 +396,12 @@ header .entry-meta {
 		margin-right: auto;
 		margin-left: auto;
 		padding: 25px 15px;
+		@media #{$medium} {
+			display:none;
+		}
+		@media #{$large} {
+			display:inline;
+		}
 	}
 	nav {
 		height: 40px;  
