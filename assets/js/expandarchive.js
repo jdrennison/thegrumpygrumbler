@@ -1,10 +1,10 @@
-document.getElementByClassName( 'more' ).addEventListener( 'click', function() {
-    var body = document.getElementByClassName( 'slide-body' );
-    if( body.className == 'expanded' ) {
-        body.className = '';
-        document.getElementByClassName( 'more' ).textContent = '[+]';
+$('.expandcollapse').click(function(e) {
+    e.preventDefault();
+    var list = $(this).parent().next('.expandcollapseposts');
+    if (!list.is(':visible')) {
+       $(this).text('[-]');
     } else {
-        body.className = 'expanded';
-        document.getElementByClassName( 'more' ).textContent = '[-]';
-    };
-} );
+       $(this).text('[+]');
+    }
+    list.toggle();
+});
