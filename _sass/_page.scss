@@ -459,7 +459,26 @@ header .entry-meta {
 		a#pull {  
 		    display: none;  
 		}   
-	} 
+	}
+	.slide {
+	    border: 1px solid black;
+	}
+	.slide-body{
+	    height: 55px;    
+	    overflow: hidden;
+	    transition:             height 500ms ease;
+		-moz-transition:    height 500ms ease;
+		-ms-transition:     height 500ms ease;
+		-o-transition:      height 500ms ease;
+		-webkit-transition: height 500ms ease;
+	}
+	.expanded {
+	    height: 150px !important;
+	}
+	.more {    
+	    cursor: pointer;
+	    text-align: right;
+	}
 }
 .entry-image-index {
 	margin-top: -25px;
