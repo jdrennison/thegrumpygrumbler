@@ -397,7 +397,7 @@ header .entry-meta {
 		margin-right: auto;
 		margin-left: auto;
 		padding: 25px 15px;
-		@media #{$medium} {
+		@media #{$sidebarmaxwidthallowance} {
 			display:none;
 		}
 		@media #{$large} {
