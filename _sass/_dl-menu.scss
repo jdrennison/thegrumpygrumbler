@@ -16,6 +16,11 @@
 		top: 25px;
 		left: 25px;
 	}
+
+	@media screen and (min-width: #{$navbarwidththreshold}) {
+		display: none;
+	}
+
 	button {
 		top: 0;
 		left: 0;
