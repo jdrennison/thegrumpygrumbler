@@ -1,3 +1,9 @@
+#post-index .dl-menuwrapper {
+	@media screen and (min-width: #{$navbarwidththreshold}) {
+		display: none;
+	}
+}
+
 .dl-menuwrapper {
 	width: 100%;
 	position: absolute;
@@ -15,10 +21,6 @@
 		max-width: 175px;
 		top: 25px;
 		left: 25px;
-	}
-
-	@media screen and (min-width: #{$navbarwidththreshold}) {
-		display: none;
 	}
 
 	button {
