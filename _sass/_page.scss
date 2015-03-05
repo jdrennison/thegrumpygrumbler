@@ -367,7 +367,20 @@ header .entry-meta {
 		}
 		@media #{$large} {
 			width: 800px;
-			margin-top: 50px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		float:left;
+	}
+
+	#main-category {
+		@media #{$medium} {
+			margin-right: auto;
+			margin-left: auto;
+			width: 100%
+		}
+		@media #{$large} {
+			width: 800px;
 			margin-right: auto;
 			margin-left: auto;
 		}
@@ -393,7 +406,24 @@ header .entry-meta {
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		float: right;
 		width: 280px;
-		margin-top: 50px;
+		margin-top: 40px;
+		margin-right: auto;
+		margin-left: auto;
+		padding: 25px 15px;
+		@media #{$sidebarmaxwidthallowance} {
+			display:none;
+		}
+		@media #{$large} {
+			display:inline;
+		}
+	}
+
+	#sidebar-category {
+		background-color: $white;
+		@include rounded(3px);	
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+		float: right;
+		width: 280px;
 		margin-right: auto;
 		margin-left: auto;
 		padding: 25px 15px;

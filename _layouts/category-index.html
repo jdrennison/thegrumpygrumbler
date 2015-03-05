@@ -7,7 +7,7 @@ image:
 
 <h1 class="categoryheader"> {{ page.title | capitalize_all }}</h1>
 
-<div id="main" role="main">
+<div id="main-category" role="main">
 	{% for post in site.categories[page.category] %}
 	<article class="hentry">
 	  <header>
@@ -39,6 +39,6 @@ image:
 	{% endfor %}
 </div> <!-- /#main -->
 
-<div id="sidebar">
+<div id="sidebar-category">
   {% include sidebar.html %}
 </div>
