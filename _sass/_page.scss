@@ -374,18 +374,10 @@ header .entry-meta {
 	}
 
 	#main-category {
-		@media #{$medium} {
-			margin-right: auto;
-			margin-left: auto;
-			width: 100%
-		}
-		@media #{$large} {
-			width: 800px;
-			margin-right: auto;
-			margin-left: auto;
-		}
-		float:left;
+		@extend #main;
+		margin: 0px;
 	}
+
 	article {
 		background-color: $white;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
@@ -400,6 +392,7 @@ header .entry-meta {
 			padding: 50px 80px;
 		}
 	}
+
 	#sidebar {
 		background-color: $white;
 		@include rounded(3px);	
@@ -419,20 +412,8 @@ header .entry-meta {
 	}
 
 	#sidebar-category {
-		background-color: $white;
-		@include rounded(3px);	
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
-		float: right;
-		width: 280px;
-		margin-right: auto;
-		margin-left: auto;
-		padding: 25px 15px;
-		@media #{$sidebarmaxwidthallowance} {
-			display:none;
-		}
-		@media #{$large} {
-			display:inline;
-		}
+		@extend #sidebar;
+		margin-top: 0px;
 	}	
 }
 .entry-image-index {
