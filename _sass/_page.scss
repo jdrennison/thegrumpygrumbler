@@ -432,11 +432,7 @@ header .entry-meta {
 .categoryheader {
 	height: 1.5em;
 	padding: 5px 10px 5px 10px;
-	background: -webkit-linear-gradient(#{$headinggradient});
-	background: -o-linear-gradient(#{$headinggradient});
-	background: -moz-linear-gradient(#{$headinggradient});
-	background: linear-gradient(#{$headinggradient});
-	color: lighten($text-color, 100);
+	color: darken($text-color, 100);
 	@include rounded(5px);
 }
 
