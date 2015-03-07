@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Grumpy Grumbler</title>
+    <description>Responding to malcontent with misanthropy
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Mar 2015 18:09:58 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 18:09:58 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>I had the chance to make it right, though I probably wouldn't accomplish much of anything.</title>
+        <description>&lt;p&gt;&lt;strong&gt;Dear Uncle JD,&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have been in my current role of Senior Developer for a software agency for about a year now. As my job title suggests, I should be someone who makes decisions and also improves the software methodologies of the organisation. But ever since I started working here, I've been adding buttons on web pages, adding fields into HTML forms, writing API calls or adding optional properties to entities on said APIs. I get pressured by project managers to lower my effort points and time estimates because &quot;the client won't like this and may take their business elsewhere&quot; and then insist to take 20% off those time estimates and turn them into deadlines. I'm the sole developer for many projects.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We nominally do code reviews but more often than not they never get done as everyone else is busy with their own tight deadlines. My project managers always push for the quick-and-dirty solution &quot;just for now&quot; so we can get something &quot;out of the door&quot;. The result of this is that I lose interest in the work I'm doing and I often cobble something up just to get it out of the way and relieve some stress on me and yet I still stay in the office until 8pm every weeknight. Of course, it goes without saying that we never revisit that old code to make it right, after all, refactoring released code isn't adding functionality and isn't putting food on the table. Instead, we keep adding functionality to the spaghetti code out there and I find myself slowing down and working harder to manually test everything as a result of this. I now think I'm exhibiting OCD symptoms before a deployment to production. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My question to you is this: am I a complete knobhead for not speaking up more often and getting my point across, or just a partial one?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Idiotic and dismayed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dear Idiotic and Dismayed,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;br /&gt;
+I'm fully aware that technical staff such as devs, DBAs and Ops do everything in their power to avoid conflict. We prefer to work with machines rather than people as machines are more predictable and they don't have the downside of a personality being attached to them, though it may so seem every time you're getting an &quot;Object reference is not set to an instance of an object&quot; error.&lt;/p&gt;
+&lt;p&gt;As technical staff you want to take the &quot;path of least resistance&quot; when it comes to interacting with people who &quot;don't get the code&quot;. This often leads to the problems you've described. Perhaps there'll be a little back-and-forth and the PM may make a concession or two but, let's come off it, if we were good with people and were able to get a point across, we'd be PMs ourselves. &lt;/p&gt;
+&lt;p&gt;After all how many software job adverts have you not seen in recent years where they're asking for people who can communicate with non-technical staff? I mean they've really got a front to ask for this, haven't they? Sure, at the university you've done a lot of by-now-outdated courses that simulated a software team in a company but you knew this isn't real and if it's anything like that when you get your first job, it'll be fine. Well, it &lt;em&gt;is&lt;/em&gt; like that at your first job but instead of other clueless second-years you have seasoned 50 year-old project managers wanting things from you so they can feed their families and you can feed yours. That shit is real and there's no denying it.&lt;/p&gt;
+&lt;p&gt;When you were thinking of responding to their job opening, what else on the job spec? Did it say that you have to be able to meet tight deadlines and work under pressure? If so, they really meant it. They're not actually saying &quot;there'll be the occasional tight deadline but for most of the time you'll be alright&quot; but &quot;you have to release yesterday every day and you'll be managing multiple projects on the same day, alternating every half an hour with people moaning to your PM over the phone&quot;. &lt;/p&gt;
+&lt;p&gt;Nobody said it was going to be easy, my boy.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Dec 2014 20:58:44 +0000</pubDate>
+        <link>http://localhost:4000/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</guid>
+        
+        <category>agency</category>
+        
+        <category>project manager</category>
+        
+        <category>quick and dirty</category>
+        
+        <category>software development</category>
+        
+        
+        <category>advice column</category>
+        
+        <category>software development</category>
+        
+      </item>
+    
+      <item>
+        <title>Rail fares will rise next year, everyone starts whining</title>
+        <description>&lt;p&gt;Expectedly, average rail fares will rise again early January next year, it has emerged.&lt;/p&gt;
+&lt;p&gt;For the duration of December this year an endless amount of complaining will ensue on all major newspaper's online comment sections.&lt;/p&gt;
+&lt;p&gt;&quot;What do you mean prices of things go up?&quot;, 29-year-old Lisa Daveson exclaimed. &quot;I've bought this nice two bedroom house in Weybridge that'd cost me £100,000 more if I were to get something similar in Wimbledon. The commute is fantastic as it only takes me about 40 minutes to get to Waterloo and from there another 40 minutes to change three tube lines to go to the office during rush hour. It's fantastic!&quot;&lt;/p&gt;
+&lt;p&gt;30-year-old City worker Nicholas Overs said: &quot;I moved to Tonbridge where I've bought a three bedroom house for the price of a studio flat in Shepherds Bush. If I catch the train to Charing Cross at 7.12, I can be at the office by 9, after taking the Northern and then the Central line. But now I'm wondering if it was all worth it since it'll be all costing me £100 a year more.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;I'm thinking about remortgaging the house and moving back to London. I miss all the history, the nightlife options and the stuck-up plastic slappers I  used to ogle at when I went out&quot;.&lt;/p&gt;
+&lt;p&gt;Telegraph editor David Anderson said: &quot;All we did was to take last year's article on the subject, change the title a bit, replace the figures and ship it. No one notices and the comments below always count in the hundreds.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;We do the same with the house price articles twice a year and there you have it. For all twelve months everyone's kept uptight and on their toes.&quot;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Dec 2014 11:47:35 +0000</pubDate>
+        <link>http://localhost:4000/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>in the news</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Reasons why I won't write for Cracked</title>
+        <description>&lt;p&gt;For the most part, I like Cracked. Sure it's an American humour site and a lot of things on it don't apply to British everyday life but that aside, it provides a lot of lessons in life from people who have been through stuff and seen things.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;I've also heard they pay you money to write for them. What the fuck, I thought to myself, I've been doing this blog for five years and it wouldn't hurt to make £63.8092 for submitting a draft. And, if it gets approved by the editors, become a published article and be seen by millions. A few more of these, then move on to a bigger medium, get famous and wallow in £50 notes and pussy.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;Seriously. People have done less for the prospect of money and minge.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;I decided to look into this further and read into the process. Here's what it looks like, and has put me off.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;h3&gt;1. The article needs to be in the form of a &quot;listicle&quot;.&lt;/h3&gt;
+&lt;p&gt;This is in the FAQ and they're saying that listicles work for them and they got more views since they adopted a &quot;listicle-mostly&quot; policy. But listicles are the articles of the lazy reader, surely? Cracked is the go-to place to be entertained and, of late, educated. You're not supposed to read their articles thinking &quot;so I've read the 5 'horrifying' realities of being a dog hairdresser and they didn't shock me. I hope the other three will&quot;. This isn't Buzzfeed or Upworthy. It's, or should be, way more substantial. Do they think people will think &quot;tmfl; dmfr&quot; when they read the things that you do every day without realising makes you a bad person?&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;&quot;So let's see... how many paragraphs remain until the end of item 2? I hope there isn't much left, I'm getting off in two stops, maybe I'll manage to squeeze in number 1. Hang on, what does it say here? There's an unspoken rule that w&lt;/em&gt;&lt;em&gt;hoever has power over someone else must keep to themselves or they will be forever hated? But we're near the end of the item #2? Why&lt;/em&gt; &lt;em&gt;isn't the author expanding on that? Fuck, that's my stop right here. I'll save the damn article for later along with the other advice articles that I've hoarded and will never read, but this one I will read. Why? Because even if it wasn't a &quot;listicle&quot; Cracked writers know how to retain your fucking interest, that's why.&lt;/em&gt;&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;h3&gt;2. They want you to do research&lt;/h3&gt;
+&lt;p&gt;That's a first. But how about this: I'm not going to research fucking anything. I'd do research for a university paper but this is a comedy site and editors can and do write opinion articles. Apparently they want third parties to do some educational pieces as these take the bulk of the hard work that is required when writing an article from Cracked. That leaves more time for the seasoned staff to write more opinion-based articles while we run around interviewing people and reading journals to present our findings in a comedy-style narrative. In the marketing circles this is known as crowdsourcing which roughly translates as &quot;the people inside an organisation experiment with all the interesting stuff that doesn't generate enough revenue to keep the organization afloat but they get outsiders to do the tedious shit which, however, brings more money to the organization, and give them a tiny cut from the revenue&quot;. My argument here is that the most revenue-generating sources are, like I said, tedious shit.&lt;/p&gt;
+&lt;h3&gt;3.Research isn't required if you have a personal experience that is deemed unique.&lt;/h3&gt;
+&lt;p&gt;If you've been through stuff that most people haven't, Cracked would like to hear from you. Over the past couple of years we've read on the site stories from someone who've &lt;a href=&quot;http://www.cracked.com/article_21858_what-its-like-to-survive-point-blank-blast-from-shotgun.html&quot;&gt;accidentally shot themselves and as a result got amputated&lt;/a&gt;, a woman who was a &lt;a href=&quot;http://www.cracked.com/article_21538_5-things-i-learned-as-sex-slave-in-modern-america.html&quot;&gt;victim of people trafficking&lt;/a&gt;, &lt;a href=&quot;http://www.cracked.com/article_20841_5-things-i-learned-as-cop-that-movies-wont-show-you.html&quot;&gt;the story of a cop&lt;/a&gt; and the account of a retired Delta Force operator who was hunting and interrogating Taliban commanders in the Kush during the peak of the War On Terror. Ok, the last one has never been featured but, who the bloody hell knows, just give it a year and see.&lt;/p&gt;
+&lt;p&gt;I won't fit into this category either unless they let me write an article called &quot;5 things I've learnt being a software developer in London whose life has pretty much been home-work-home-bar-on-Saturday-night&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cracked does take itself too seriously, but, hey, it'd be a good way to make money and get laid like a fucking motherfucker.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Nov 2014 01:59:48 +0000</pubDate>
+        <link>http://localhost:4000/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</guid>
+        
+        <category>cracked.com</category>
+        
+        
+        <category>media and entertainment</category>
+        
+      </item>
+    
+      <item>
+        <title>News headlines - everything is going to shit</title>
+        <description>&lt;p&gt;It's easy to get utterly paranoid if you spend too much time on the Internet or if you often read the rags previous commuters have left on a seat on the tube. However, trust you me, you've not seen anything yet. As people get bored with the same scare stories and the race for readership is only going to intensify in the future where instant global communication will become even faster, the headlines and the (unverified) stories will only become more hideous.&lt;/p&gt;
+&lt;p&gt;Also, it'll help that we're living in unprecedented times where everything is going to fucking hell quickly. Or maybe not but that's the vibe I'm getting from news outlets. Well, in any case, here are news headlines from a possible future.&lt;/p&gt;
+&lt;h3&gt;The new YouTube sweetheart is taking the world by storm.&lt;/h3&gt;
+&lt;p&gt;Susan Deacon, 13, has captivated audiences with her song &quot;I'm waiting for the knight in the shining armour&quot;. She's about to be signed with a major record label.&lt;/p&gt;
+&lt;h3&gt;Pop idol makes young people kill themselves.&lt;/h3&gt;
+&lt;p&gt;Justin Bieber's latest hit &quot;Don't you wish your bird was hot like mine&quot; has had many young adults slit their wrists in desperation having been reminded that they've just been settling for what they can get all along. They know damn well that being a rich celebrity makes a person better than the rest.&lt;/p&gt;
+&lt;h3&gt;The most expensive train ticket in Britain costs almost £4000.&lt;/h3&gt;
+&lt;p&gt;The route from St.Ives to Aberdeen has now reached £3,945 although it doesn't seem to bother the Cornish. &quot;Why would we want to go up there to that dark, moody, rainy place anyway&quot;, one of them said. &quot;Them Scots are having their comeuppance for trying to secede. A warm weekend on the beach will cost them dearly so they can stay right the fuck where they are if they don't like us&quot;.&lt;/p&gt;
+&lt;h3&gt;Energy bills have risen by 400% in 2 years.&lt;/h3&gt;
+&lt;p&gt;&quot;Hey, we've got expenses too&quot; a spokesman said. &quot;We said we'll freeze prices until this year and we did. Now we can no longer absorb the increasing costs. I've already said enough, we don't have to explain ourselves to consumers.&quot;&lt;/p&gt;
+&lt;h3&gt;ISIS fighters are here to kill us all&lt;/h3&gt;
+&lt;p&gt;According to the latest government figures, an unknown number of people have gone to Syria and Iraq to fight with ISIS and an unknown number returned to the UK before the media picked up on this story and therefore terrified the government into interviewing returnees from the two countries more rigorously. It is now believed that there &lt;em&gt;will&lt;/em&gt; be multiple attacks with tactical anti-matter warheads between now and next week. The country's police forces have dispatched cloaked aerial drones to patrol the capital and other major cities and the Army Reserve has been deployed. The Home Office has raised the threat level to full black and Prime Minister David Cameron has urged the public to drop everything they're doing and remain completely still until everyone in the country is assessed and the suspects are found.&lt;/p&gt;
+&lt;h3&gt;The damage to the economy is 'irreversible'&lt;/h3&gt;
+&lt;p&gt;28 million unemployed Britons between 18 and 55 have taken to the streets in protest. The Chancellor has announced there won't be any pensions for anyone as the economy has reached a level lower than the Global Depression's in the 1930s. The only skills that are currently on demand in the country are those of a CEO's, a banker's and a high level politician's.&lt;/p&gt;
+&lt;h3&gt;Your neighbour has Ebola&lt;/h3&gt;
+&lt;p&gt;The only reason you would speak to her is to ask her if she would mind turning that hip-hop music down a few notches so you chances are you won't ask her. But she is infected with a rare strain of airborne Ebola. By the way if you haven't seen her at her patio in a while, she may be dead and nobody has yet noticed. It has been speculated that that strain of Ebola can survive outside a host for months and when it feeds on a dead person's cell protein it becomes ten times more airborne.&lt;/p&gt;
+&lt;h3&gt;Could everyone in the world have all of their online data taken HOSTAGE?&lt;/h3&gt;
+&lt;p&gt;It has emerged that criminals may be intending to conduct cyber attacks in order to steal account information and data from everyone who is Facebook, Twitter, Google, Evernote or Dropbox, and all the major internet banking systems in the world if they haven't done so already.  If this happens, experts have warned that the data could be sold to the highest bidder for ransom.&lt;/p&gt;
+&lt;p&gt;&quot;They will know how much money you have in your bank accounts&quot;, security expert Steve Mills told us, &quot;and they will probably ask you to cash in all of your assets to unmarked bank notes or all your photos snogging your mistress and the guy from the car part shop will be shown at random on Facebook's or YouTube's home pages when these have their security upgraded and then are hacked again by the same individuals.&quot;&lt;/p&gt;
+&lt;p&gt;Another expert, Troy Hunt, said &quot;I've tried to tell everyone but in one ear it goes and out the other&quot;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 22:48:38 +0000</pubDate>
+        <link>http://localhost:4000/2014/11/06/news-headlines-everything-is-going-to-shit/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/06/news-headlines-everything-is-going-to-shit/</guid>
+        
+        <category>betteridge's law</category>
+        
+        <category>cyber attack</category>
+        
+        <category>cyber crime</category>
+        
+        <category>ebola</category>
+        
+        <category>energy providers</category>
+        
+        <category>hacking</category>
+        
+        <category>isis</category>
+        
+        <category>justin bieber</category>
+        
+        <category>recession</category>
+        
+        <category>terrorism</category>
+        
+        <category>train</category>
+        
+        <category>YouTube</category>
+        
+        <category>youtube star</category>
+        
+        
+        <category>in the news</category>
+        
+      </item>
+    
+      <item>
+        <title>The &quot;passionate&quot; developer</title>
+        <description>&lt;p&gt;Some of us are coding for a living. Anyone who says this isn't hard business, I dare to come write code, attend meetings, plan tasks, estimate time frames, write clean code and be there at 3AM for server maintenance.&lt;/p&gt;
+&lt;p&gt;But this isnt about all that. This is about learning new skills every couple of years at most, and that's pushing it.&lt;/p&gt;
+&lt;p&gt;If you're a doctor or a lawyer you can relate. New medical techniques come out all the time, new cures are invented. Maybe you're one of the people doing the inventing. New laws are voted all the time and others change. And in software development, new technologies emerge almost every day. As far as the end user is concerned, marketers are just shoving down the users' throats just another way of doing something they're already doing until they buy it. But for the developer who programs the software in your devices, it's a living. In the olden days of 2006, you could be irrelevant in five years if you didn't make an effort to update your skills. Now this is down to two. As technology has become cheap to produce and continuous delivery has made software release more often, we're bombarded by new software that we can use to build other software all the time.&lt;/p&gt;
+&lt;p&gt;Keeping up with all this technology requires at least another 40 hours a week if you're not just reading books and journals but you get &quot;hands on&quot; with some new shit in order to get practical experience too. &lt;/p&gt;
+&lt;p&gt;If you're a potential employer how do you hire developers who are up to date with cutting edge technologies and demonstrate that they won't start wrapping things up for the day when the clock strikes 4.50pm but also won't feel that other aspects of their lives are being neglected if they work unpaid overtime often? &lt;/p&gt;
+&lt;p&gt;I'm here to help. None of the ideas below is mine, I've looked at various job postings from start-ups looking for software developers and engineers and have compiled a list of requirements I've found in those. They're all looking for &quot;passionate&quot; developers who do as many of the following as possible.&lt;/p&gt;
+&lt;h3&gt;Github profile&lt;/h3&gt;
+&lt;p&gt;If you're not commiting to Github often, it's safe to assume thay when you go home you do other things than coding. You're quite likely to do a worse job than developers who &lt;em&gt;do&lt;/em&gt; make regular commits to open source repositories because these other people just &lt;em&gt;so can't get out of it&lt;/em&gt; they use much of their free time to code and it doesn't look like it's burning them out. Also, they've most certainly had more practice under their belts and they'll make better candidates.&lt;/p&gt;
+&lt;p&gt;Also, as most of the code people write is commercial and closed source, we can only tell what sort of coder you are if you have some code samples of yours uploaded somewhere.&lt;/p&gt;
+&lt;p&gt;In fact some employers don't even bother with CVs anymore. Go to Github right now or you simply don't exist.&lt;/p&gt;
+&lt;h3&gt;Blogs&lt;/h3&gt;
+&lt;p&gt;Unless you want the hiring manager to assume that it's all take-take-take with you, you'd better have a blog where you contribute articles to the software community. In an era of instant global communication, there is so much demand for answers and ideas in this field that one blog and one framework per developer &lt;em&gt;still&lt;/em&gt; won't saturate the Internet. This is not only true for developers alive today but for all new industry entrants from now until technology lets us down and we decide to ban it.&lt;/p&gt;
+&lt;p&gt;So go and buy some hosting space and set up a blog using a well-known CMS with a large community. It will only take an hour. Come on, I'll wait.&lt;/p&gt;
+&lt;p&gt;I know you've still here. Get moving!&lt;/p&gt;
+&lt;p&gt;Alright, future unemployed developer, I don't care. It's on you.&lt;/p&gt;
+&lt;h3&gt;Twitter&lt;/h3&gt;
+&lt;p&gt;Because we want to know your thoughts about all things programming and if you're following the industry leaders we like. We also want to see a glimpse of your character.&lt;/p&gt;
+&lt;h3&gt;Stack Overflow&lt;/h3&gt;
+&lt;p&gt;Do you participate in heated debates about what constitutes a single responsibility of a module? Do you answer questions as often as we want to see someone answer questions? Oh, come on, now, be social. It's pretty much the same as maintaining a blog, sharing ideas and all, only this time you're helping someone who's asked for help. &lt;/p&gt;
+&lt;h3&gt;Open source projects&lt;/h3&gt;
+&lt;p&gt;That kind of looks like the Github one but we're talking about full-fledged solo or team projects already released or with a clear and promised intent to be released. In other words it's not you just experimenting and generally mucking anout. This is your opportunity to shine. Hey, I've helped made this! Maybe it's something the technical director of the hiring company is already brought to the organisation or considering using and has heard your name as one of the contributors. &lt;em&gt;I'm lucky enough this bloke's looking for work right now&lt;/em&gt;, he'll think.&lt;/p&gt;
+&lt;p&gt;Of course, it could well be that you write splendid code while you're at work, that makes PMs, clients and stakeholders happy and you do none of these other things. The problem is that the hiring manager of the company you want to work for can't see the work you're doing on your 9-to-5 because it's proprietary. We thought of portfolios as something designers and front-end web developers do to show their work when they're between jobs but this has now spread to back-end developers. Next thing you know, DBAs will need to present a portfolio when they're being interviewed.&lt;/p&gt;
+&lt;p&gt;It's difficult to keep up with new technology as software creation has become so cheap a process you can potentially have one or more frameworks per developer. I'd say this is especially harder for people with  family commitments as they have their family commitments intervene, but I won't because that would be marital-statusism. The world is already unfair enough to single people once they've passed 30. It's more difficult to get a work visa somewhere when you don't have a partner to apply together with. Holiday packages are cheaper per person if two people travel together. Food portions in grocery stores always seem too much if you're only feeding yourself so you have to store it in the freezer but some food was frozen before it was sold and cannot be refrozen. Single workers apparently have no excuse not to study work-related things outside of work as what's perceived as the most important commitment outside of work is not applicable in their case. You hear this often: &quot;I'd love to code outside of work but I've got a family and I can't find much time&quot;. Well, shit. I've got friends,  a girlfriend, I go out more often since I'm young and pretty and want to be seen and I've got a few other hobbies and interests. Maybe I'll even work the fuck out if I'm feeling special. And if I'm not, I'll stay at home, watch internet porn and have a wank because I've had a long day and it's still Tuesday, so fuck right fucking off. In short, I'm just as busy as a married with children person and my day is just 24 hours long as theirs. But no, if you're not committed to a married life all your activities outside of work are sacrificeable to maintain a technology blog, commit to Github often and contribute to open source projects, be on Twitter and answer questions on Stack Overflow. You need to update your skills all the time because new things come out all the time and there's no end in it. Do away with personal care. No one needs a shower every fucking day and if you're not client-facing you don't even need to be clean shaven. Or trim your stubble. &lt;/p&gt;
+&lt;p&gt;This is a hypercompetitive and materialistic world and you're a talented developer in a city full of them. But do all that and you'll keep abreast of those that don't, and eliminate a large chunk of the competition. Because if you become complacent, your time &lt;em&gt;will&lt;/em&gt; come,  &lt;em&gt;you fat, bearded, cheetos-eating, Dr. Pepper-drinking, World of Warcraft-playing, nose-picking and snot-eating motherfucking fuck-shit&lt;/em&gt;. This is a global depression we're living in. Employers have become more selective so if you don't want to die in a cardboard box, you'd better do as I'm telling you.&lt;/p&gt;
+&lt;p&gt;And when you're made redundant at 55 and can't find another job because you're overqualified and can be replaced by someone with half the experience and money, you'll wish you had spent some of that time going out more often, making friends and finding a girlfriend.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Oct 2014 20:26:01 +0100</pubDate>
+        <link>http://localhost:4000/2014/10/02/the-passionate-developer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/10/02/the-passionate-developer/</guid>
+        
+        <category>cv</category>
+        
+        <category>github</category>
+        
+        <category>passionate developer</category>
+        
+        <category>software</category>
+        
+        <category>software development</category>
+        
+        <category>stack overflow</category>
+        
+        <category>Work</category>
+        
+        
+        <category>software development</category>
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Couple barricaded at home on hearing about raised terror alert</title>
+        <description>&lt;p&gt;A couple has barricaded itself in its house in West London until the terrorist threat the country is facing is 'neutralised'.&lt;/p&gt;
+&lt;p&gt;Bradley Stone, 45, and Christine Marr, 42, have nailed wooden boards on all of the house's doors and windows and have bought unperishable food to last for three months, according to their estimate.&lt;/p&gt;
+&lt;p&gt;&quot;The terror alert has been elevated to 'amber', they're not telling us what we're supposed to do about it, so we're just afraid. They're not even telling us what we should be afraid of&quot;, Stone told the Bed With Two Wrong Sides Broadcaster on the phone from inside the barricaded property.&lt;/p&gt;
+&lt;p&gt;&quot;Seriously, they have to give us something&quot;, added Christina Marr. &quot;Who knows how many people have gone to fight in Iraq and Syria or how many have returned. All we know is that the government has revved up the threat advisory. So we've done the only sensible thing to do. Now no one is coming in or going out of here.&quot;&lt;/p&gt;
+&lt;p&gt;The barricaded door frames have been sealed with sellotape to prevent gases going into the house &quot;in case of a chemical attack&quot;.&lt;/p&gt;
+&lt;p&gt;The couple has quit their jobs and refuse to pay taxes until the government &quot;does its job properly to protect its citizens&quot;.&lt;/p&gt;
+&lt;p&gt;&quot;After a few days in here, we miss going out but we can't give those murderous savages the satisfaction of getting us&quot;, Stone continued. &quot;One of the previous things we attempted was to stare hard at brown bearded looking individuals on public transport to let them know we're watching and make them uncomfortable&quot;.&lt;/p&gt;
+&lt;p&gt;&quot;One of them sneezed on the tube once and I reported him to a member staff for suspicion of bioterrorism&quot;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Sep 2014 19:12:31 +0100</pubDate>
+        <link>http://localhost:4000/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>in the news</category>
+        
+      </item>
+    
+      <item>
+        <title>UKIP MEP uses &quot;outrageous&quot; term for mixed couple</title>
+        <description>&lt;p&gt;South East MEP Sally Hadland described the relationship between Sunisa Suriyamongkol, a UKIP-supporting mobile food seller in Ramsgate, Kent, and her husband Bradley Stone in &quot;offensive&quot; terms.&lt;/p&gt;
+&lt;p&gt;&quot;I mean, look at their age difference. No fucking way she wants him for love and he's defo had her flown in.&quot;&lt;/p&gt;
+&lt;p&gt;Bradley Stone said it was outrageous, rude and offensive and he and his wife would withdraw their UKIP membership. Ms Hadland has issued an apology.&lt;/p&gt;
+&lt;p&gt;The MEP said: &quot;Jesus Christ, here we go again. I'm sorry that my comments were overheard and brought to the couple's attention.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;It was poor judgement that I had not chosen a more private location to express my views. My constituents weren't supposed to hear that I think British women are too good for this old, fat balding chap or that his wife had found an easy ticket to escape poverty and a military regime.&quot;&lt;/p&gt;
+&lt;p&gt;She was interviewed by the Bed With Two Wrong Sides Broadcaster and had agreed to be filmed while she met local people and UKIP members in Ramsgate.&lt;/p&gt;
+&lt;p&gt;She wore a microphone and was aware she was being recorded.&lt;/p&gt;
+&lt;p&gt;Mr Stone and Mrs Suriyamongkol have met Ms Hadland at UKIP rallies.&lt;/p&gt;
+&lt;p&gt;Mrs Suriyamongkol said: &quot;I'm from Thailand. I'm married to an Englishman whom I love and now I'm British.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;What should I do to prove I love Bradley? Return the jewellery and the Merc I've got from him?&quot;&lt;/p&gt;
+&lt;p&gt;Mr Stone said Ms Hadland's comments were &quot;unacceptable&quot;.&lt;/p&gt;
+&lt;p&gt;&quot;I'm deeply in love with Sunisa and we're very happy together. I hear her often giggle on the phone and sometimes she says 'not yet, he's still here but he's going on a business trip next week.'. I guess she wants to have fun with her girlfriends and sometimes she may think I'm in the way.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;I totally respect that.&quot;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Aug 2014 00:49:23 +0100</pubDate>
+        <link>http://localhost:4000/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</guid>
+        
+        <category>news</category>
+        
+        <category>offensive</category>
+        
+        <category>racism</category>
+        
+        <category>ukip</category>
+        
+        
+        <category>in the news</category>
+        
+      </item>
+    
+      <item>
+        <title>Ting tong: how to use racial slurs properly</title>
+        <description>&lt;p&gt;Many over the millenia have wondered which the most despicable type of human is. Some say it's a person who's killed their own mother. Others say it's a cannibal. Others, the man who's skinned his newborn baby alive, put the skin in a blender and then used it as a lube to masturbate over the baby's dead body.&lt;/p&gt;
+&lt;p&gt;No. In our days, none of these acts is as heinous as using a racial term on someone who isn't of your own race.  The Brigade of PC is gonna get up your arse before you can say &lt;a href=&quot;http://m.bbc.co.uk/news/uk-england-kent-28840210&quot;&gt;&quot;dunno, a ting tong from somewhere&quot;&lt;/a&gt; and that's it, you're in the shitter.&lt;/p&gt;
+&lt;p&gt;I didn't mention racism because I thought racism is when you deny someone a job opportunity or want to deprive someone of some civil liberties based on their race. I thought racism is when you think a race should be enslaved because it's inferior. Is Janice Atkinson racist? I don't know and i certainly I cannot deduct any of the above qualifiers for racism only from her saying that a Thai woman is a &quot;ting tong from somewhere&quot;.&lt;/p&gt;
+&lt;p&gt;So here's a tip to use racial terms without the nuisance that is the PC Brigade getting offended on behalf of others: make sure your private comments on someone's race &lt;em&gt;stay&lt;/em&gt; private. That is, if you're not sure your mike is off, don't say fucking anything. Also, you have to trust the person you are conversing with not to say anything to anyone but let's assume they just won't. Just make sure you truly are alone.&lt;/p&gt;
+&lt;p&gt;And if you do get caught just do what everyone else does: beg for forgiveness whether you mean it or not. Why apologise if you don't mean it, I hear you ask and I will answer right away. If we only said things we meant, civility and civilization would collapse before you could respond &quot;Same floor as you, hotness&quot; to the fit chick that was on the lift you've just entered and asked you which floor you're going to.&lt;/p&gt;
+&lt;p&gt;So if you do get caught say you're deeply sorry you were overheard while making a private remark and next time you do it you'll make sure no one will hear you other than the intended recipients.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Aug 2014 19:55:58 +0100</pubDate>
+        <link>http://localhost:4000/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</guid>
+        
+        <category>pc brigade</category>
+        
+        <category>political correctness</category>
+        
+        <category>racism</category>
+        
+        <category>ting tong</category>
+        
+        <category>ukip</category>
+        
+        
+        <category>news and media</category>
+        
+      </item>
+    
+      <item>
+        <title>Friday afternoon drop-everything-and-fix</title>
+        <description>&lt;p&gt;The week is near the end and as we all know the weekend starts on Friday at 6pm. All week's been quiet in that my PM (Product Manager or Project Manager, pick one) has asked me &quot;how's it going&quot; only once. With only one hour to go, I'm half way through running a deployment script on one of the two boxes where the production code is running.&lt;/p&gt;
+&lt;p&gt;[caption id=&quot;attachment_724&quot; align=&quot;aligncenter&quot; width=&quot;408&quot;]&lt;a href=&quot;https://thegrumbler.files.wordpress.com/2014/07/fridaydeployment.gif&quot;&gt;&lt;img class=&quot;size-full wp-image-724&quot; src=&quot;assets/fridaydeployment.gif&quot; alt=&quot;asd&quot; width=&quot;408&quot; height=&quot;285&quot; /&gt;&lt;/a&gt; &lt;br /&gt;Maybe I'll do it after a few pints at the local near the office.[/caption]&lt;/p&gt;
+&lt;p&gt;&quot;JD.&quot; I hear a voice right above me. I turn around to see the stern face of my PM. &quot;Did you get my email?&quot;&lt;/p&gt;
+&lt;p&gt;Without answering I look back at the monitor, hover my mouse cursor over Outlook and start sifting through its open email windows seeking the only window that contains the inbox.&lt;/p&gt;
+&lt;p&gt;The problem with emails is that no tree needs to be cut down to become raw material for a on-screen window with text and images. Also you can send one without having to get off your seat. As a result, hundreds of them fly across the corporate network every day without any thought. Me, I get tens of the buggers daily, many of them being automatic updates from the CI build server or other services we use, many others have me on the CC field and therefore most of the time the email doesn't even remotely concern me. Sometimes I will get an email directly personally to me. My PM had just sent me one at 16:10. It was now 16:11.&lt;/p&gt;
+&lt;p&gt;&quot;Did I get it? Yes, I did. Did I act on it? No. I didn't even look at it as I'm in the middle of the release we agreed doing today. May I remind you how we communicate urgencies in this company but also in every company. We're all busy with things. If you want me to look at something within a couple of hours or more, you email me. If you want something in the next five to ten minutes you instant-message me. And if it's urgent come find me.&quot;&lt;/p&gt;
+&lt;p&gt;The PM exhales &quot;well, just read the bloody email&quot;.&lt;/p&gt;
+&lt;p&gt;You know, when you're deeply in &quot;The Zone&quot; and someone disrupts your trail of thoughts? Developers have a lot of tiny bits of information in their heads when they're working at a difficult problem. We can't really keep notes about those bits in a notepad because even the very act of keeping notes is a process that requires effort that we're spending thinking things and the slightest distraction would shatter out concentration. We can access those things in our short-term memory more quickly without writing and reading. That's because new things keep piling up in our short-term memory as we're working through a problem yet we can still dance trough them all. Until someone interrupts us. Everyone knows that context switching is an expensive mental process. Everything we've had in our minds so far gets shattered to make room for the new situation at hand. That someone deserves our wrath.&lt;/p&gt;
+&lt;p&gt;Uncle Bob Martin's interpretation of &quot;The Zone&quot;&lt;a href=&quot;%20is not the same as my one&quot;&gt; is not the same as my one&lt;/a&gt;. &quot;The Zone&quot; is your friend.&lt;/p&gt;
+&lt;p&gt;&quot;We know about this&quot;, I reply after reading the very long stack trace that the PM emailed me, still staring at my monitor. &quot;I thought it was being looked at by the team that handles that system. You need to speak to that team.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;Oh, ok. I'll ask them then&quot;, says the PM and briskly walks off. If there's anything else I can't help you with, come and ask.&lt;/p&gt;
+&lt;p&gt;First production server done, monitor the logs for a while and if all goes well, move to the second box.&lt;/p&gt;
+&lt;p&gt;&quot;JD&quot;. That was one of the mobile app developers. &quot;I've made a call to the API from the app and I got a 500 Internal Server Error.&quot;&lt;/p&gt;
+&lt;p&gt;When you've pushed, or in this case, are pushing, a new deployment to the production servers and someone reports that something's fucking fucked up in the application that you've released, the first thing that comes to your mind is whether it's something that you've just changed or something that has been there for a while but it so happened that someone's just noticed it. Before we release an application to production, it is now common in most companies that we have automated tests that exercise various paths of the application. If one of them fails, the build is unfit for release and we have to work out what's wrong with the tested code (or the test that failed) before we release. All tests had passed in that instance but the problem is those tests are never exhaustive. The journeys a user can take and the inputs she can enter (see? I'm not sexist. I can throw a few &quot;she&quot; around to keep the Brigade of Political Correctness at bay) are practically infinite and there could be a case that wasn't covered by tests. If your company has a Quality Assurance team they may find it during their exploration testing. Some other times the requirements could miss out some use cases in which case the production software may behave in an undesirable way. This type of behaviour we call an unintended feature. Also, some of the codebase is years old, people leave and join a company all the time and the person or persons who wrote a piece of logic and/or the PM who ordered it may be long gone or on holiday. The rest of us, who don't know that specific logic off the top of our heads will have to dig in and find what it does, so that is man-minutes, and sometimes man-hours, spent there.&lt;/p&gt;
+&lt;p&gt;In short, anyone who isn't shocked by the art of software development clearly hasn't undestood what it's about. So those who don't understand software development have us do it instead and sometimes when we give them feedback we receive responses such as &quot;but we're already doing this somewhere else in the platform&quot; or &quot;we've got a last-minute change one hour before the deadline but it shouldn't take you long&quot;.&lt;/p&gt;
+&lt;p&gt;And what could unintended features be like? Like bloody anything! Here's a transcript of the conversation between the mobile app developer and me:&lt;/p&gt;
+&lt;p&gt;&quot;Hey man,&quot; I said, &quot;I'll look at it when I get the chance but right now I'm in the middle of a release. Next time you discover a bug, could you discover it when I'm not doing a release?&quot;&lt;/p&gt;
+&lt;p&gt;&quot;This can't wait, I'm afraid. As soon as the error occurred, the laptop next to me has just become sentient and has produced legs and a gatling gun between them. Also the printer in the corridor has become an aerial hunter-killer drone and started firing missiles on the accounts team&quot;.&lt;/p&gt;
+&lt;p&gt;Moral of the story: a reminder that when native British people answer with &quot;I'm afraid that...&quot; they mean &quot;I don't care a tiny bit about what you want and why, just shut up and do what they're tellin' ya&quot;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Jul 2014 00:37:31 +0100</pubDate>
+        <link>http://localhost:4000/2014/07/30/friday-afternoon-drop-everything-and-fix/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/30/friday-afternoon-drop-everything-and-fix/</guid>
+        
+        <category>bug</category>
+        
+        <category>deployment</category>
+        
+        <category>friday release</category>
+        
+        <category>office</category>
+        
+        <category>release</category>
+        
+        
+        <category>software development</category>
+        
+      </item>
+    
+      <item>
+        <title>How can we help the poor souls at customer retention call centres?</title>
+        <description>&lt;p&gt;For the lucky of you who don't know, in at least some parts of the Western hemisphere if you want to cancel your insurance/mobile phone/internet you can't just go to their website and do it. You must call a number, navigate through the menu options and thirty minutes later get to the option that includes &quot;...or if you're thinking about leaving us...&quot;. There is no waiting time after this, you get through to someone immediately. Then they try to get you to stay with them. If you live in a country where you can cancel your internet or mobile account online or you can call customer service and ask them to cancel your account and they just do it, I'm really jealous.&lt;/p&gt;
+&lt;p&gt;After hearing &lt;a href=&quot;https://soundcloud.com/ryan-block-10/comcastic-service&quot;&gt;this phone call&lt;/a&gt; between a Comcast former customer and a Comcast retention centre employee, I almost thought &quot;oh, thank Christ I don't live in the U.S. of A&quot; but really it's not different here in Blighty. I was convinced to remain with one of my current telecommunications providers twice when I called them and asked to cancel my subscription when my contract was approaching its end. A few added incentives, advice on how staying with them will help me since my usage is this were cast on me and next thing you know I was signing for a new yearly contract. The other thing they conducted on me was what I call &quot;churn warfare&quot;. They just talk and talk and try to negotiate until you think &quot;fuck it, I'll keep the account if that will make him stop&quot;.&lt;/p&gt;
+&lt;p&gt;Those who know me, know that my argument on every topic is &quot;because I fucking want to&quot; or &quot;because I said it is so&quot; but there are circumstances where I actually have to make a case or is preferable to make a case in order not to sound like a &lt;em&gt;complete&lt;/em&gt; fuck-shit. One of these cases is this. For all I know the guy I'm speaking to (I guess they don't put women in those retention departments) could be sitting in a 2x2 room in Bangalore having a gun on his head whose holder would fire if the representative failed to keep the customer with the company. Some of them &lt;a href=&quot;http://www.theverge.com/2014/7/16/5909591/here-s-why-your-comcast-rep-is-yelling-at-you&quot;&gt;don't get paid if they fail to keep over 75% of the customers whose calls are directed to them&lt;/a&gt;. If I do move to a different provider I'm contributing to the plight of the guy I'm speaking to. The least I can do is get the admittedly good deal he's offering me and with a little extra money on my part he gets to feed his family or pay for a dinner date if he's in the process of starting a family.&lt;/p&gt;
+&lt;p&gt;So we're in a ridiculous situation where paying for a service we don't need means someone else gets to eat. And although there should not be a correlation between the two, there is, and it affects everyone who is somehow involved with a service provider. Unless you live in a mountain and hunt and gather to eat, you live in the global village and your actions have consequences on you and others no matter how far they are from you.&lt;/p&gt;
+&lt;p&gt;So, does that mean that you should be held hostage to your cable/fibre/ mobile service provider in order for someone not to resort to begging or stealing to make a living? Of course not. Even if everyone who thought about leaving a service was convinced to remain and you knew about it you are not ultimately responsible for the sales representative's fate. There are plenty of ways to help others ranging from donating to volunteering. You shouldn't feel like a bad person for cancelling an account because if a company does this to its employees it shouldn't have customers anyway.&lt;/p&gt;
+&lt;p&gt;I guess what I'm trying to say is that I recently switched providers. I was prepared for a long haul conversation where I'd about lose my shit as soon as the guy started his sales pitch. Instead there was a very nice woman who said something like &quot;sorry you're leaving&quot; a couple of times and half-arsedly attempted to sell me some other packages. They do make half-arsed attempts at selling you things if you suspect that you only pretend you want to live in order to have your bill lowered, which wasn't the case with me. Their manager probably barged into the 2x2 room in Bangalore where they're all packed up and told them that someone shamed Comcast's customer retention and that from now on they have to ease up on UK customers or some of us may start posting recorded calls left right and centre.&lt;/p&gt;
+&lt;p&gt;If that's true I guess I have Ryan Block to thank for my easy defection.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Jul 2014 09:30:14 +0100</pubDate>
+        <link>http://localhost:4000/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</guid>
+        
+        <category>attrition warfare</category>
+        
+        <category>call centre</category>
+        
+        <category>churn warfare</category>
+        
+        <category>comcast</category>
+        
+        <category>customer service</category>
+        
+        <category>internet service provider</category>
+        
+        <category>isp</category>
+        
+        <category>retention deals</category>
+        
+        <category>ryan block</category>
+        
+        
+        <category>marketing</category>
+        
+      </item>
+    
+  </channel>
+</rss>
