@@ -4,7 +4,7 @@ email: twowrongsides@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Responding to malcontent with misanthropy
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.thebedwithtwowrongsides.com" # the base hostname & protocol for your site
+url: "http://www.thegrumpygrumbler.com" # the base hostname & protocol for your site
 twitter_username: jdrennison
 permalink:    /:year/:month/:day/:title/
 paginate: 5
