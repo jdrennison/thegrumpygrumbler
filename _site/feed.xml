@@ -4,10 +4,10 @@
     <title>The Grumpy Grumbler</title>
     <description>Responding to malcontent with misanthropy
 </description>
-    <link>http://www.thegrumpygrumbler.com/</link>
-    <atom:link href="http://www.thegrumpygrumbler.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2015 19:27:08 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2015 19:27:08 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Mar 2015 17:04:34 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2015 17:04:34 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,8 +27,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;Nobody said it was going to be easy, my boy.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 20:58:44 +0000</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</guid>
+        <link>http://localhost:4000/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/09/i-had-the-chance-to-make-it-right-though-i-probably-wouldnt-accomplish-that/</guid>
         
         <category>agency</category>
         
@@ -56,8 +56,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;&quot;We do the same with the house price articles twice a year and there you have it. For all twelve months everyone's kept uptight and on their toes.&quot;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 11:47:35 +0000</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</guid>
+        <link>http://localhost:4000/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/09/rail-fares-will-rise-next-year-and-everyones-started-whining/</guid>
         
         <category>news</category>
         
@@ -90,8 +90,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;Cracked does take itself too seriously, but, hey, it'd be a good way to make money and get laid like a fucking motherfucker.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Nov 2014 01:59:48 +0000</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</guid>
+        <link>http://localhost:4000/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/27/3-reasons-why-i-wont-write-for-cracked/</guid>
         
         <category>cracked.com</category>
         
@@ -124,8 +124,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;Another expert, Troy Hunt, said &quot;I've tried to tell everyone but in one ear it goes and out the other&quot;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Nov 2014 22:48:38 +0000</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/11/06/news-headlines-everything-is-going-to-shit/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/11/06/news-headlines-everything-is-going-to-shit/</guid>
+        <link>http://localhost:4000/2014/11/06/news-headlines-everything-is-going-to-shit/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/06/news-headlines-everything-is-going-to-shit/</guid>
         
         <category>betteridge's law</category>
         
@@ -187,8 +187,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;And when you're made redundant at 55 and can't find another job because you're overqualified and can be replaced by someone with half the experience and money, you'll wish you had spent some of that time going out more often, making friends and finding a girlfriend.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Oct 2014 20:26:01 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/10/02/the-passionate-developer/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/10/02/the-passionate-developer/</guid>
+        <link>http://localhost:4000/2014/10/02/the-passionate-developer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/10/02/the-passionate-developer/</guid>
         
         <category>cv</category>
         
@@ -223,8 +223,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;&quot;One of them sneezed on the tube once and I reported him to a member staff for suspicion of bioterrorism&quot;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Sep 2014 19:12:31 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</guid>
+        <link>http://localhost:4000/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/09/08/couple-barricaded-at-home-on-hearing-about-raised-terror-alert/</guid>
         
         <category>news</category>
         
@@ -250,8 +250,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;&quot;I totally respect that.&quot;&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Aug 2014 00:49:23 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</guid>
+        <link>http://localhost:4000/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/08/22/ukip-mep-uses-outrageous-term-for-mixed-couple/</guid>
         
         <category>news</category>
         
@@ -276,8 +276,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;So if you do get caught say you're deeply sorry you were overheard while making a private remark and next time you do it you'll make sure no one will hear you other than the intended recipients.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Aug 2014 19:55:58 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</guid>
+        <link>http://localhost:4000/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/08/21/ting-tong-how-to-use-racial-slurs-properly/</guid>
         
         <category>pc brigade</category>
         
@@ -317,8 +317,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;Moral of the story: a reminder that when native British people answer with &quot;I'm afraid that...&quot; they mean &quot;I don't care a tiny bit about what you want and why, just shut up and do what they're tellin' ya&quot;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Jul 2014 00:37:31 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/07/30/friday-afternoon-drop-everything-and-fix/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/07/30/friday-afternoon-drop-everything-and-fix/</guid>
+        <link>http://localhost:4000/2014/07/30/friday-afternoon-drop-everything-and-fix/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/30/friday-afternoon-drop-everything-and-fix/</guid>
         
         <category>bug</category>
         
@@ -346,8 +346,8 @@ I'm fully aware that technical staff such as devs, DBAs and Ops do everything in
 &lt;p&gt;If that's true I guess I have Ryan Block to thank for my easy defection.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Jul 2014 09:30:14 +0100</pubDate>
-        <link>http://www.thegrumpygrumbler.com/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</link>
-        <guid isPermaLink="true">http://www.thegrumpygrumbler.com/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</guid>
+        <link>http://localhost:4000/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/23/how-can-we-help-the-poor-souls-at-customer-retention-call-centres/</guid>
         
         <category>attrition warfare</category>
         
