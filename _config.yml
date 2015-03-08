@@ -12,6 +12,7 @@ owner:
   name:           JD Rennison
   avatar:         avatar.jpg
   email:          twowrongsides@gmail.com
+google_analytics: true
 
 # Build settings
 timezone:    Europe/London
