@@ -21,7 +21,7 @@ module Jekyll
       if site.layouts.key? 'tag-index'
         dir = 'tags'
         site.tags.keys.each do |tag|
-          write_tag_index(site, File.join(dir, tag), tag)
+          write_tag_index(site, File.join(dir, url_beautify(tag)), tag)
         end
       end
     end
@@ -32,6 +32,11 @@ module Jekyll
       index.write(site.dest)
       site.pages << index
     end
+
+    def url_beautify(tag)
+      return tag.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
+    end
+
   end
  
 end
