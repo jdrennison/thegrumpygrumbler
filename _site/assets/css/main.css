@@ -3623,11 +3623,9 @@ body {
   .entry-meta .tag {
     display: inline-block;
     margin: 4px;
-    color: #fff;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
-    border-radius: 3px;
-    color: #fff; }
+    border-radius: 3px; }
     .entry-meta .tag span {
       float: left;
       padding: 2px 6px; }
@@ -3666,7 +3664,8 @@ body {
       -moz-background-clip: padding;
       background-clip: padding-box; }
     .entry-meta .tag:hover {
-      background-color: rgba(162, 162, 162, 0.8); }
+      background-color: rgba(162, 162, 162, 0.8);
+      color: #fff; }
   .entry-meta .entry-reading-time {
     float: right; }
 
